@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\bin\Debug\SlingshotApp.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\bin\Debug\SlingshotApp.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\bin\Debug\SlingshotApp.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\obj\Debug\SlingshotApp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\obj\Debug\SlingshotApp.exe
+C:\Users\Ahmad\Documents\Visual Studio 2015\Projects\SubmoduleTest\slingshot\SlingshotApp\obj\Debug\SlingshotApp.pdb
