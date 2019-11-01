@@ -8,6 +8,7 @@ namespace SlingshotApp
         {
             
             var applicant = new Applicant("Adam", "smith", DateTime.Now, new UserRoles());
+            var agent =  new Agent("Agent", "Sam", DateTime.Now, new UserRoles(), "IT");
 
         }
     }
