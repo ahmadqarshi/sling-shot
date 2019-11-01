@@ -7,7 +7,7 @@ namespace SlingshotApp
         static void Main(string[] args)
         {
             
-            var admin = new Admin("Shaun", "Tait", DateTime.Now, new UserRoles());
+            var applicant = new Applicant("Adam", "smith", DateTime.Now, new UserRoles());
 
         }
     }
